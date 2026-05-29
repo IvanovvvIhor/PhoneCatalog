@@ -13,14 +13,16 @@ A fully responsive, Single Page Application (SPA) e-commerce platform built with
 * **Styling:** SCSS (CSS Modules for scope isolation), BEM methodology
 * **Storage:** Browser LocalStorage API (persistent Cart and Favorites)
 
-## Getting Started
+```
 
-Follow these steps to set up the project locally:
+```markdown
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/IvanovvvIhor/react_phone-catalog.git](https://github.com/IvanovvvIhor/react_phone-catalog.git)
 
+```
 ```
 
 2. **Navigate to the project directory:**
