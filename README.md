@@ -1,12 +1,12 @@
-# Phone Catalog (E-Commerce SPA)
+# Phone Catalog
 
 ## Overview
 
-Welcome to the Phone Catalog, a fully responsive, Single Page Application (SPA) e-commerce platform built with React and TypeScript. Designed with a focus on user experience and modern web practices (referencing this [Figma design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=16O9NND2RWI3jvSp-0)), the project simulates a real-world online store. It features dynamic product catalogs, a persistent shopping cart and favorites functionality, and advanced URL-based state management for filtering and pagination.
+Welcome to the Phone Catalog, a comprehensive e-commerce application designed, according to [Figma design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=16O9NND2RWI3jvSp-0), with a focus on user experience and modern web practices. This project simulates a real-world online store. It features dynamic product catalogs, a persistent shopping cart and favorites functionality, and advanced URL-based state management for filtering and pagination.
 
 ## Demo
 
-You can view a live demo of the application here: [Live Preview](https://IvanovvvIhor.github.io/react_phone-catalog/)
+You can view a live demo of the application [DEMO](https://IvanovvvIhor.github.io/react_phone-catalog/).
 
 ## Key Features
 
@@ -25,19 +25,21 @@ Developing the application involved several challenges, particularly around impl
 
 - **Feature Integration**: Integrating multiple features such as sliders, sorting, pagination, and product details required careful planning and coordination.
 - **Responsive Design**: Ensuring that all components and features work well across various devices and screen sizes demanded extensive testing and adjustments.
-- **State Management**: Efficiently managing application state for the shopping cart, favorites, and product details—including `localStorage` interactions and URL synchronization—required robust state management strategies.
+- **State Management**: Efficiently managing application state for the shopping cart, favorites, and product details, including localStorage interactions and URL synchronization, required robust state management strategies.
 - **Error Handling**: Handling errors gracefully in various parts of the application, including loading states and API interactions, was crucial for a smooth user experience.
 - **Performance Optimization**: Ensuring that the application performs well, with efficient data handling and smooth animations, was essential for maintaining a high-quality user experience.
+
+These challenges were addressed through careful design, iterative development, and thorough testing to deliver a high-quality, feature-rich application.
 
 ## Installation & Setup
 
 To install the project and run it locally, follow these steps:
 
 1. Clone the repository:
-
+   
 ```bash
    git clone [https://github.com/IvanovvvIhor/react_phone-catalog.git](https://github.com/IvanovvvIhor/react_phone-catalog.git)
-
+   
 
 ```
 
@@ -45,7 +47,7 @@ To install the project and run it locally, follow these steps:
 
 ```bash
    cd react_phone-catalog
-
+   
 
 ```
 
@@ -53,7 +55,7 @@ To install the project and run it locally, follow these steps:
 
 ```bash
    npm install
-
+   
 
 ```
 
@@ -61,19 +63,18 @@ To install the project and run it locally, follow these steps:
 
 ```bash
    npm start
-
+   
 
 ```
 
 ## Technologies Used
 
-* **React (Hooks)**: For building the dynamic user interface.
-* **TypeScript**: For type safety and a better development experience.
+* **React**: For building the user interface.
+* **TypeScript**: For type safety and better development experience.
 * **React Router v6**: For routing and seamless navigation between pages.
-* **Context API & URLSearchParams**: For global and shareable URL-based state management.
-* **SCSS (CSS Modules)**: For scoped and modular styling following the BEM methodology.
+* **React Context**: For global state management of cart and favorites.
+* **CSS Modules / SCSS**: For scoped and modular styling following the BEM methodology.
 * **HTML5**: For structuring the content.
-* **LocalStorage API**: For persistent data storage of the Cart and Favorites across browser sessions.
+* **LocalStorage API**: For persistent data storage across browser sessions.
 * **NPM**: For package management and running scripts.
-
 
