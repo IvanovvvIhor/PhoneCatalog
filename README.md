@@ -1,8 +1,8 @@
-# Product Catalog (E-Commerce SPA)
+# Phone Catalog (E-Commerce SPA)
 
 ## Overview
 
-Welcome to the Product Catalog, a fully responsive, Single Page Application (SPA) e-commerce platform built with React and TypeScript. Designed with a focus on user experience and modern web practices (referencing this [Figma design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=16O9NND2RWI3jvSp-0)), the project simulates a real-world online store. It features dynamic product catalogs, a persistent shopping cart and favorites functionality, and advanced URL-based state management for filtering and pagination.
+Welcome to the Phone Catalog, a fully responsive, Single Page Application (SPA) e-commerce platform built with React and TypeScript. Designed with a focus on user experience and modern web practices (referencing this [Figma design](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&t=16O9NND2RWI3jvSp-0)), the project simulates a real-world online store. It features dynamic product catalogs, a persistent shopping cart and favorites functionality, and advanced URL-based state management for filtering and pagination.
 
 ## Demo
 
